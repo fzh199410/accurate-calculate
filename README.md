@@ -1,7 +1,8 @@
 # accurate-calculate
 
-[![npm (scoped)](https://img.shields.io/npm/v/@bamblehorse/tiny.svg)](https://www.npmjs.com/package/accurate-calculate)
-[![npm bundle size (minified)](https://img.shields.io/bundlephobia/min/@bamblehorse/tiny.svg)](https://www.npmjs.com/package/accurate-calculate)
+[![npm (scoped)](https://img.shields.io/badge/npm-v1.0.2-blue.svg)](https://www.npmjs.com/package/accurate-calculate)
+[![github (scoped)](https://img.shields.io/badge/github-fzh199410-blue.svg)](https://github.com/fzh199410/accurate-calculate)
+[![npm bundle size (minified)](https://img.shields.io/badge/npm%20bundle%20size-2KB-blue.svg)](https://www.npmjs.com/package/accurate-calculate)
 
 
 ## Install
