@@ -15,7 +15,7 @@ $ npm install accurate-calculate
 不清楚为什么0.2+0.1 !== 0.3的童鞋 [看一看](https://segmentfault.com/a/1190000010517876 "With a Title"). 
 ```js
 // es6
-import { l, accDiv, accAdd, accSub } from "accurate-calculate";
+import { accMul, accDiv, accAdd, accSub } from "accurate-calculate";
 // common js
 const { accMul, accDiv, accAdd, accSub } = require("accurate-calculate");
 
