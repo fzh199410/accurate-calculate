@@ -1,6 +1,6 @@
 {
   "name": "accurate-calculate",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "resolve js calculate problem such as 0.1 + 0.3 or 0.1 * 0.2",
   "main": "index.cjs.js",
   "module": "index.esm.js",
