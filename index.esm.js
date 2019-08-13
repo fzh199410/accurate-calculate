@@ -82,6 +82,8 @@ function checkParams(arg1, arg2) {
     return true;
 }
 
+console.log('from import');
+
 export {
     accMul,
     accDiv,
